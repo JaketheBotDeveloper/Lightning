@@ -1,0 +1,132 @@
+[19:21:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:21:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:21:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:21:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:21:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:21:03] [main/INFO]: Loaded 0 recipes
+[19:21:03] [main/INFO]: Loaded 0 advancements
+[19:21:17] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[19:21:17] [Server thread/INFO]: Loading properties
+[19:21:17] [Server thread/INFO]: Default game type: SURVIVAL
+[19:21:17] [Server thread/INFO]: Generating keypair
+[19:21:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:21:18] [Server thread/INFO]: Using default channel type
+[19:21:25] [Server thread/WARN]: Failed to load operators list: 
+java.lang.NullPointerException: null
+	at vt.g(SourceFile:150) ~[server.jar:?]
+	at sn.C(SourceFile:107) [server.jar:?]
+	at sn.<init>(SourceFile:29) [server.jar:?]
+	at so.d(SourceFile:203) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+[19:21:25] [Server thread/INFO]: Preparing level "world"
+[19:21:25] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:21:31] [Server thread/INFO]: Loaded 524 recipes
+[19:21:36] [Server thread/INFO]: Loaded 571 advancements
+[19:21:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:21:39] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:40] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:41] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:42] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:44] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:46] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:47] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:48] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:49] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:51] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:52] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:53] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:54] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:55] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:57] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:58] [Server thread/INFO]: Preparing spawn area: 0%
+[19:21:59] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:00] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:01] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:02] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:03] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:04] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:06] [Server thread/INFO]: Preparing spawn area: 0%
+[19:22:06] [Server thread/INFO]: Preparing spawn area: 4%
+[19:22:07] [Server thread/INFO]: Preparing spawn area: 4%
+[19:22:08] [Server thread/INFO]: Preparing spawn area: 4%
+[19:22:09] [Server thread/INFO]: Preparing spawn area: 8%
+[19:22:10] [Server thread/INFO]: Preparing spawn area: 8%
+[19:22:10] [Server thread/INFO]: Preparing spawn area: 12%
+[19:22:11] [Server thread/INFO]: Preparing spawn area: 12%
+[19:22:12] [Server thread/INFO]: Preparing spawn area: 16%
+[19:22:13] [Server thread/INFO]: Preparing spawn area: 16%
+[19:22:13] [Server thread/INFO]: Preparing spawn area: 20%
+[19:22:14] [Server thread/INFO]: Preparing spawn area: 20%
+[19:22:15] [Server thread/INFO]: Preparing spawn area: 24%
+[19:22:16] [Server thread/INFO]: Preparing spawn area: 24%
+[19:22:17] [Server thread/INFO]: Preparing spawn area: 28%
+[19:22:18] [Server thread/INFO]: Preparing spawn area: 28%
+[19:22:18] [Server thread/INFO]: Preparing spawn area: 32%
+[19:22:20] [Server thread/INFO]: Preparing spawn area: 32%
+[19:22:20] [Server thread/INFO]: Preparing spawn area: 36%
+[19:22:21] [Server thread/INFO]: Preparing spawn area: 36%
+[19:22:21] [Server thread/INFO]: Preparing spawn area: 40%
+[19:22:22] [Server thread/INFO]: Preparing spawn area: 40%
+[19:22:23] [Server thread/INFO]: Preparing spawn area: 44%
+[19:22:24] [Server thread/INFO]: Preparing spawn area: 44%
+[19:22:25] [Server thread/INFO]: Preparing spawn area: 48%
+[19:22:26] [Server thread/INFO]: Preparing spawn area: 48%
+[19:22:26] [Server thread/INFO]: Preparing spawn area: 52%
+[19:22:27] [Server thread/INFO]: Preparing spawn area: 52%
+[19:22:28] [Server thread/INFO]: Preparing spawn area: 56%
+[19:22:29] [Server thread/INFO]: Preparing spawn area: 56%
+[19:22:30] [Server thread/INFO]: Preparing spawn area: 56%
+[19:22:31] [Server thread/INFO]: Preparing spawn area: 60%
+[19:22:32] [Server thread/INFO]: Preparing spawn area: 60%
+[19:22:32] [Server thread/INFO]: Preparing spawn area: 64%
+[19:22:33] [Server thread/INFO]: Preparing spawn area: 64%
+[19:22:34] [Server thread/INFO]: Preparing spawn area: 68%
+[19:22:35] [Server thread/INFO]: Preparing spawn area: 68%
+[19:22:36] [Server thread/INFO]: Preparing spawn area: 72%
+[19:22:37] [Server thread/INFO]: Preparing spawn area: 72%
+[19:22:37] [Server thread/INFO]: Preparing spawn area: 76%
+[19:22:38] [Server thread/INFO]: Preparing spawn area: 80%
+[19:22:39] [Server thread/INFO]: Preparing spawn area: 84%
+[19:22:40] [Server thread/INFO]: Preparing spawn area: 84%
+[19:22:40] [Server thread/INFO]: Preparing spawn area: 88%
+[19:22:41] [Server thread/INFO]: Preparing spawn area: 92%
+[19:22:42] [Server thread/INFO]: Preparing spawn area: 96%
+[19:22:42] [Server thread/INFO]: Preparing spawn area: 100%
+[19:22:42] [Server thread/INFO]: Time elapsed: 65148 ms
+[19:22:43] [Server thread/INFO]: Done (77.863s)! For help, type "help"
+[19:23:09] [User Authenticator #1/INFO]: UUID of player StarwarsJake is df86116f-2cba-49ef-91a6-1c5f25c1d641
+[19:23:09] [Server thread/INFO]: StarwarsJake[/127.0.0.1:51005] logged in with entity id 351 at (55.5, 74.0, -169.5)
+[19:23:09] [Server thread/INFO]: StarwarsJake joined the game
+[19:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[19:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24110ms or 482 ticks behind
+[19:24:29] [Server thread/WARN]: StarwarsJake moved too quickly! -5.58216734973702,-2.0,8.241296505603628
+[19:24:31] [Server thread/INFO]: StarwarsJake lost connection: Disconnected
+[19:24:31] [Server thread/INFO]: StarwarsJake left the game
+[19:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34061ms or 681 ticks behind
+[19:24:46] [User Authenticator #2/INFO]: UUID of player StarwarsJake is df86116f-2cba-49ef-91a6-1c5f25c1d641
+[19:24:46] [Server thread/INFO]: StarwarsJake[/127.0.0.1:51041] logged in with entity id 959 at (45.622514136775095, 73.1212968405392, -159.24354234350312)
+[19:24:46] [Server thread/INFO]: StarwarsJake joined the game
+[19:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16034ms or 320 ticks behind
+[19:25:14] [Server thread/INFO]: Made StarwarsJake a server operator
+[19:25:25] [Server thread/INFO]: [StarwarsJake] Hello
+[19:25:28] [Server thread/INFO]: StarwarsJake lost connection: Disconnected
+[19:25:28] [Server thread/INFO]: StarwarsJake left the game
+[19:25:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14198ms or 283 ticks behind
+[19:25:48] [Server thread/INFO]: Stopping the server
+[19:25:48] [Server thread/INFO]: Stopping server
+[19:25:48] [Server thread/INFO]: Saving players
+[19:25:48] [Server thread/INFO]: Saving worlds
+[19:25:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:25:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:25:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:25:49] [Server Shutdown Thread/INFO]: Stopping server
+[19:25:49] [Server Shutdown Thread/INFO]: Saving players
+[19:25:49] [Server Shutdown Thread/INFO]: Saving worlds
+[19:25:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:25:49] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
